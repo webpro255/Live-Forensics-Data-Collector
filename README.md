@@ -1,6 +1,5 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/webpro255/Rapid-Response-Forensics-Toolkit)
 ![GitHub issues](https://img.shields.io/github/issues/webpro255/Rapid-Response-Forensics-Toolkit)
-![GitHub stars](https://img.shields.io/github/stars/webpro255/Rapid-Response-Forensics-Toolkit)
 ![GitHub license](https://img.shields.io/github/license/webpro255/Rapid-Response-Forensics-Toolkit)
 ![GitHub forks](https://img.shields.io/github/forks/webpro255/Rapid-Response-Forensics-Toolkit)
 
