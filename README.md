@@ -1,21 +1,18 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/webpro255/Live-Forensics-Data-Collector)
-![GitHub issues](https://img.shields.io/github/issues/webpro255/Live-Forensics-Data-Collector)
-![GitHub stars](https://img.shields.io/github/stars/webpro255/Live-Forensics-Data-Collector)
+![GitHub last commit](https://img.shields.io/github/last-commit/webpro255/Rapid-Response-Forensics-Toolkit)
+![GitHub issues](https://img.shields.io/github/issues/webpro255/Rapid-Response-Forensics-Toolkit)
+![GitHub stars](https://img.shields.io/github/stars/webpro255/Rapid-Response-Forensics-Toolkit)
+![GitHub license](https://img.shields.io/github/license/webpro255/Rapid-Response-Forensics-Toolkit)
+![GitHub forks](https://img.shields.io/github/forks/webpro255/Rapid-Response-Forensics-Toolkit)
 
 # Rapid Response Forensics Toolkit 🛡️🚀
 
 An innovative solution for live Linux system investigations, the **Rapid Response Forensics Toolkit** empowers forensic analysts to capture volatile data swiftly and securely. My unique approach leverages in-memory script execution to minimize system footprint, ensuring the integrity and admissibility of collected evidence.
-
-...
 
 ## Unique Advantages
 
 - **Memory-Resident Execution:** Our scripts run directly from RAM, a distinctive method that sets this toolkit apart by reducing disk I/O on the target system.
 - **Zero Footprint Philosophy:** Designed with a forensic-first mindset, we prioritize leaving the smallest possible trace on the investigated system.
 - **Modular Design:** Easily extend the toolkit with additional modules to capture specific data relevant to your investigation.
-
-...
-
 
 ## Table of Contents
 
@@ -31,10 +28,10 @@ An innovative solution for live Linux system investigations, the **Rapid Respons
 
 ## Introduction
 
-**Live Forensics Data Collector** is a powerful and automated Bash script toolkit designed for digital forensic professionals. It securely captures critical volatile data from live Linux systems with minimal interaction, ensuring data integrity and adherence to forensic best practices.
+**Rapid Response Forensics Toolkit is a Live Forensics Data Collector** 
+a powerful and automated Bash script toolkit designed for digital forensic professionals. It securely captures critical volatile data from live Linux systems with minimal interaction, ensuring data integrity and adherence to forensic best practices.
 
-This toolkit is essential for:
-
+**This toolkit is essential for**:
 - Incident response teams
 - Cybersecurity analysts
 - Digital forensic investigators
@@ -60,7 +57,7 @@ This toolkit is essential for:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/webpro255/Live-Forensics-Data-Collector.git
+   git clone https://github.com/webpro255/Rapid-Response-Forensics-Toolkit.git
    ```
 
    ## Getting Started
@@ -75,8 +72,6 @@ Copy `collect_forensic_data.sh` and `run_forensics.sh` to the root directory of 
 3. **Label Your USB Drive**:
 Ensure your USB drive is labeled `FORENSICS_USB` for the scripts to recognize it.
 
-
-#### **7. Usage**
 
 ## Usage
 
