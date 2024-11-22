@@ -119,6 +119,28 @@ Note: Ensure you have legal authorization to perform these actions.
 
 ## Legal and Ethical Considerations
 
+## Legal and Ethical Considerations
+
+**Important Notice:**
+
+The **Rapid Response Forensics Toolkit** is intended for **educational purposes, training, and authorized testing environments only**. This toolkit is **not** intended for use in official forensic investigations or any situation where the legal admissibility of evidence is required.
+
+- **Use of Standard Tools Recommended:** For official forensic investigations, it is recommended to use widely accepted and validated forensic tools that are recognized by the industry and legal system. This ensures compliance with legal standards and maintains the integrity and admissibility of collected evidence.
+
+- **Tool Validation:** This toolkit is a custom script and has not been formally validated or certified for forensic accuracy. It may not collect all necessary data or function consistently across different systems.
+
+- **No Warranty or Guarantee:** The toolkit is provided "as is," without any warranty of any kind, express or implied. The developer does not guarantee that the toolkit is free of errors or that it will meet any specific requirements.
+
+- **Legal Compliance:** Users are responsible for ensuring that their use of this toolkit complies with all applicable laws, regulations, and organizational policies. Unauthorized access to systems or data is illegal and unethical.
+
+- **Ethical Use Only:** This toolkit should be used responsibly and ethically. Do not use it to collect data from systems you do not own or do not have explicit permission to investigate.
+
+- **Liability Disclaimer:** The developer is not liable for any damages, legal consequences, or losses arising from the use of this toolkit.
+
+**By using the Rapid Response Forensics Toolkit, you agree to these terms and acknowledge that you understand the limitations and appropriate use of this toolkit.**
+
+
+
 **Disclaimer:**
 
 This toolkit is intended for use by authorized personnel in lawful forensic investigations. Unauthorized use or execution of these scripts on systems without explicit permission is illegal and unethical.
