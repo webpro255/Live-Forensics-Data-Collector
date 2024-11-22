@@ -92,7 +92,7 @@ The script will execute and display progress messages. Do not interrupt the proc
 After completion, unmount and remove the USB drive.
 Note: Ensure you have legal authorization to perform these actions.
 
-#### **8. Scripts Explained**
+
 ## Scripts Explained
 
 ### collect_forensic_data.sh
@@ -116,8 +116,7 @@ Note: Ensure you have legal authorization to perform these actions.
   - Executes the script from RAM to minimize disk writes.
   - Unmounts the USB drive and cleans up temporary files.
  
-9. Legal and Ethical Considerations
-Emphasize responsible use:
+
 ## Legal and Ethical Considerations
 
 **Disclaimer:**
