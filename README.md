@@ -119,8 +119,6 @@ Note: Ensure you have legal authorization to perform these actions.
 
 ## Legal and Ethical Considerations
 
-## Legal and Ethical Considerations
-
 **Important Notice:**
 
 The **Rapid Response Forensics Toolkit** is intended for **educational purposes, training, and authorized testing environments only**. This toolkit is **not** intended for use in official forensic investigations or any situation where the legal admissibility of evidence is required.
