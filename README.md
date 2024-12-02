@@ -28,12 +28,15 @@ An innovative solution for live Linux system investigations, the **Rapid Respons
 ## Introduction
 
 **Rapid Response Forensics Toolkit is a Live Forensics Data Collector** 
-a powerful and automated Bash script toolkit designed for digital forensic professionals. It securely captures critical volatile data from live Linux systems with minimal interaction, ensuring data integrity and adherence to forensic best practices.
+a powerful and automated Bash script toolkit designed for digital forensic enthusiast. It securely captures critical volatile data from live Linux systems with minimal interaction, ensuring data integrity and adherence to forensic best practices.
 
 **This toolkit is essential for**:
-- Incident response teams
-- Cybersecurity analysts
-- Digital forensic investigators
+- Incident response practice
+
+All Ways use reputable software for real investiagations. 
+
+
+thisnis for fun ! 
 
 
 ## Features
