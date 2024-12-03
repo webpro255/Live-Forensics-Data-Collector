@@ -9,7 +9,7 @@ An innovative solution for live Linux system investigations, the **Rapid Respons
 
 ## Unique Advantages
 
-- **Memory-Resident Execution:** Our scripts run directly from RAM, a distinctive method that sets this toolkit apart by reducing disk I/O on the target system.
+- **Memory-Resident Execution:** Scripts run directly from RAM, a distinctive method that sets this toolkit apart by reducing disk I/O on the target system.
 - **Zero Footprint Philosophy:** Designed with a forensic-first mindset, we prioritize leaving the smallest possible trace on the investigated system.
 - **Modular Design:** Easily extend the toolkit with additional modules to capture specific data relevant to your investigation.
 
